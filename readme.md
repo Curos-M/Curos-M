@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curos-m&label=Profile%20views&color=0e75b6&style=flat" alt="curos-m" /> </p>
 
-- ⚡ Fun fact **I am an Assertive Adventurer (ISFP-A)**
+- 👨‍🔧 **Enjoying PHP** 
+- 🏕️ Fun fact **I'm an Assertive Adventurer *(ISFP-A)***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
