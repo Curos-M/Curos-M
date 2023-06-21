@@ -1,9 +1,9 @@
 <h1 align="center">Allo 👋, I'm Mufid Aqil</h1>
-<h3 align="center">Not Passionate Web Developer</h3>
+<h3 align="center">Passionate Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curos-m&label=Profile%20views&color=0e75b6&style=flat" alt="curos-m" /> </p>
 
-- ⚡ Fun fact **I Think I am Professional noob**
+- ⚡ Fun fact **I am an Assertive Adventurer (ISFP-A)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
